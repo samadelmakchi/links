@@ -1,282 +1,266 @@
-Dall-E - https://www.dall-efree.com/user/dashboard
-Meshy - https://www.meshy.ai/discover
-ImgGen - https://imggen.ai/
-Leonardo - https://app.leonardo.ai/
-Midjourney - https://www.midjourney.com/home
-Image Generator - https://www.bing.com/images/create
-Krea - https://www.krea.ai/home
-Remove BG - https://www.remove.bg/
-Poe - https://poe.com/
-You.com - https://you.com/?chatMode=custom
-Moises - https://studio.moises.ai/library/
-Riffusion - https://www.riffusion.com/?filter=staff-picks
-Suno - https://suno.com/
-Mureka - https://www.mureka.ai/
-DaVinci - https://davinci.ai/app
-Otter - https://otter.ai/home
-Eleven Labs - https://elevenlabs.io/app/speech-synthesis/text-to-speech
-Gains Trade - https://gains.trade/trading
-Forex Factory - https://www.forexfactory.com/
-Character.ai - https://character.ai/
-Lovable - https://lovable.dev/
-Ninja Chat - https://www.ninjachat.ai/dashboard
-Merlio - https://merlio.app/dashboard
-Bolt - https://bolt.new/
-Excuse Generator - https://excuses.ai/
-DeFi Llama - https://defillama.com/
-Crypto Bubbles - https://cryptobubbles.net/
-Coin Market Cap - https://coinmarketcap.com/
-Gecko Terminal - https://www.geckoterminal.com/
-Trading View - https://www.tradingview.com/chart/
-Kif Pool - https://kifpool.me/member_v2/credit-card
-PinkSale - https://www.pinksale.finance/?source=home_screen
-Dapp Radar - https://dappradar.com/
-Propiy - https://propiy.com/fa/panel/profile
-xChief - https://my.xchief.com/profile/settings
-Meta Trader - https://web.metatrader.app/terminal
-JIT - https://jit.dev/
-WebDev Arena - https://web.lmarena.ai/
-Framer - https://framer.com/projects/Untitled--cukRGMqna221DllInNvM-j8m4O?node=augiA20Il
-Julius - https://julius.ai/chat
-LabEX - https://labex.io/labs/docker-your-first-docker-lab-92719?course=quick-start-with-docker
-Play With Docker - https://labs.play-with-docker.com/
-Visual Studio Code - https://vscode.dev/
-Colab - https://colab.google/
-Code Any Where - https://microsoft-vscode-j1km1dgwlc.app.codeanywhere.com/
-GitHub - https://github.com/
-Gitlab - https://gitlab.com/
-KLING AI - https://www.klingai.com/
-Hailuo AI - https://hailuoai.video/
-Hotshot - https://hotshot.co/
-inVideo AI - https://ai.invideo.io/workspace/805a70b8-1dbc-442b-ace2-d7b967d0a17b/home
-Runway - https://app.runwayml.com/video-tools/teams/samadelmakchi/dashboard
-HeyGen - https://app.heygen.com/home
-Descript - https://web.descript.com/
-Luma - https://dream-machine.lumalabs.ai/
-Google FX - https://labs.google/fx
-Azki Sarmayeh - https://app.azkisarmayeh.com/home
-iBshop - https://panel.ibshop.ir/dashboard
-Figma - https://www.figma.com/files/team/1304369465781142922/recents-and-sharing?fuid=1304369463003010946
-LinkedIn - https://www.linkedin.com/feed/
-Skype - https://web.skype.com/
-BitPin - https://bitpin.ir/wallet/
-OK-EX - https://ok-ex.io/setting/account/list
-Nobitex - https://nobitex.ir/panel/balance/spot/
-Sarmayex - https://sarmayex.com/panel
-Arz Digital - https://arzdigital.com/portfolio/portfolios?id=f046aba7-7755-4267-9f01-4dbeff2ce979
-Telegram - https://web.telegram.org/a/
-WhatsApp - https://web.whatsapp.com/
-Economic Calendar - https://iranbourseonline.co/weekly-economic-calendar
-Apartemana - https://panel.apartemana.com/dashboard/
-Tamin Ejtemaie - https://eservices.tamin.ir/view/#/main
-Police - https://pwa.police-man.ir/
-Bors View - https://bv.emofid.com/market
-TSETMC - https://tsetmc.com/
-Saman - https://my.samanbourse.ir/
-Farabi - https://my.irfarabi.com/
-Agah - https://oldonline.agah.com/
-Mofid Online - https://mobile.mofidonline.com/signin-oidc
-Easy Trader - https://m.easytrader.ir/market-watch
-Bidar - https://ebidar.com/
-Perplexity - https://www.perplexity.ai/
-Scira - https://scira.app/
-Maskan - https://saman.mrud.ir/
-Maliyat - https://my.tax.gov.ir/Page/Dashboard
-Iran Khodro - https://ikcosales.ir/
-Modiran Khodro - https://mvm401.com/
-گلستان - https://osreg.pnu.ac.ir/forms/authenticateuser/main.htm
-اخبار گلستان - http://osreg.pnu.ac.ir/home/Default.htm
-پیام نور آذربایجان شرقی - http://eaz.pnu.ac.ir/portal/home/
-پیام نور - http://pnu.ac.ir/portal/home/
-پیام نور تبریز - http://tabriz.eaz.pnu.ac.ir/portal/home/
-کارت دانشجویی - https://uis.ir/State.aspx
-نمونه سوالات - https://soalatpnu.ir/grade/MA/field/122130
-انتشارات پیام نور - https://press.pnu.ac.ir/contacts
-LMS - https://lms.eaz.pnu.ac.ir/
-Youtube - https://www.youtube.com/
-Facebook - https://www.facebook.com/
-Instagram - https://www.instagram.com/
-Spotify - https://open.spotify.com/
-SoundCloud - https://m.soundcloud.com/discover
-Chatr Finance - https://chatrfinance.ir/webapp/#/minified:lU
-OnlyFans - https://onlyfans.com/
-AI Ease - https://www.aiease.ai/
-Play.ht - https://play.ht/app/audio-files?tab=ultra
-Aiva - https://creators.aiva.ai/
-Lovo - https://genny.lovo.ai/my-workspace/project
-Mikrotakt - https://studio.beta.mikrotakt.app/
-MyLens - https://mylens.ai/
-TypeSet - https://typeset.io/en/
-Weights - https://www.weights.gg/
-ClipDrop - https://clipdrop.co/tools
-Photo Room - https://www.photoroom.com/tools/background-remover
-iLoveIMG - https://www.iloveimg.com
-iLovePDF - https://www.ilovepdf.com/
-StackEdit - https://stackedit.io/app
-Small PDF - https://smallpdf.com/
-Pine Tools - https://pinetools.com/
-KeeWeb - https://app.keeweb.info/
-Cloud Convert - https://cloudconvert.com/
-AnyConv - https://anyconv.com/
-QR Code Generator - https://goqr.me/
-Translate & Edit Subtitles - https://www.syedgakbar.com/projects/dst
-YouTube Downloader - https://downloaderto.com/engf/
-Diagram - https://app.diagrams.net/
-Photopea - https://www.photopea.com/
-Bulk Resize Photos - https://bulkresizephotos.com/en
-WHM - https://linux103.talashnet.com:2087/cpsess7264240694/?login=1&post_login=9225839221632
-تلاش نت - https://crm.talashnet.com/clientarea.php
-Mokker - https://app.mokker.ai/
-Reveals - https://reveals.app/
-WeShop - https://www.weshop.ai/workspace
-Virtual Try On - https://web.aiuta.com/
-Brandmark - https://app.brandmark.io/v3/
-ویپاد - https://web.wepod.ir/
-Team Finance - https://app.team.finance/mint
-Remix - Ethereum IDE - https://remix.ethereum.org/
-Chain List - https://chainlist.org/
-RPC Info - https://rpc.info/
-intoDNS - https://intodns.com/
-Check Host - https://check-host.net/
-Iran Server - https://hub.iranserver.com/clientarea.php
-Mihan Nic - http://mihannic.com/
-IRNIC - https://www.nic.ir/
-Theme Lock - https://themelock.com/eng/
-Chain Tool - https://chaintool.tech/faucet
-Chainlink Faucets - https://faucets.chain.link/
-BSC Testnet Faucet - https://testnet.bnbchain.org/faucet-smart
-10 Web - https://10web.io/ai-website-builder/
-Gamma - https://gamma.app/create
-Ideogram - https://ideogram.ai/t/explore
-MioCreate - https://www.miocreate.com/
-Fliki - https://app.fliki.ai/
-Dzine - https://www.dzine.ai/
-Flex Clip - https://www.flexclip.com
-Pexels - https://www.pexels.com/
-Mixo - https://app.mixo.io/ai-website-builder
-Vidu - https://www.vidu.com/create/character2video
-ChatGOT - https://www.chatgot.io/chat/
-Consensus - https://consensus.app/search/
-HostVDS - https://hostvds.com/control/servers/new
-YottaSrc - https://yottasrc.com/
-Ethernet Servers - https://www.ethernetservers.com/
-ProHoster - https://prohoster.info/en/
-Hostiger - https://hostiger.com/
-BitLaunch - https://bitlaunch.io/
-Fotbo - https://fotbo.com/
-KVMKA - https://kvmka.ru/
-Aéza - https://aeza.net/
-Pump Fun (SOL) - https://pump.fun/create
-گواهینامه بین المللی - https://idp.taci.ir/Person
-Dribbble - https://dribbble.com/
-Napkin - https://app.napkin.ai/page/create
-Liner - https://getliner.com/
-Mapify - https://mapify.so/app/new
-Turbo Scribe - https://turboscribe.ai/dashboard
-Hyper Write - https://app.hyperwriteai.com/personalassistant
-ChatPDF - https://www.chatpdf.com/
-StudyChat - https://www.studychat.app/
-NoteGPT - https://notegpt.io/workspace/create
-ScienceOS - https://www.scienceos.ai/
-Good Tape - https://goodtape.io/tapes/new
-Pinterest - https://www.pinterest.com
-Zoosk - https://www.zoosk.com
-Twitch - https://m.twitch.tv/
-TikTok - https://www.tiktok.com/
-Tumblr - https://www.tumblr.com/
-Tango - https://tango.me/
-VK - https://m.vk.com/
-Reddit - https://www.reddit.com/
-Clubhouse - https://www.clubhouse.com/
-Threads - https://www.threads.net
-Snapchat - https://www.snapchat.com/
-Mastodon - https://mastodon.social/
-Mattermost - https://mattermost.com/
-Zoom - https://www.zoom.com/
-Slack - https://slack.com/
-Microsoft 365 Copilot - https://m365.cloud.microsoft/
-Discord - https://discord.com/
-Scite - https://scite.ai/
-Speechify - https://speechify.com/
-ScholarAI - https://scholarai.io/
-Pi - https://pi.ai/onboarding
-Gipi - https://gipi.ai/
-Voice Dictation - https://dictation.io/
-NotebookLM - https://notebooklm.google.com/notebook/e6fa6250-958b-4303-9bf8-38b7973e132e?_gl=1*1xg1w7u*_ga*MTQ4MDcxNjA3My4xNzM5MDg5Nzgw*_ga_W0LDH41ZCB*MTczOTA4OTc4MC4xLjEuMTczOTA4OTc4MC42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1
-نوسان - https://www.navasan.net/
-PicLumen - https://piclumen.com/app/image-generator/explore
-Veo 2 - https://veo2.ai/
-Genmo - https://www.genmo.ai/
-Pika - https://pika.art/
-Haiper - https://haiper.ai/
-PixVerse - https://app.pixverse.ai/
-Vidfly - https://vidfly.ai/home/
-Focal - https://focalml.com/
-Clipfly - https://www.clipfly.ai/
-Vidful - https://vidful.ai/
-Visla - https://www.visla.us/
-Zeemo - https://zeemo.ai/
-Black Box - https://www.blackbox.ai/
-Turbo Learn - https://www.turbolearn.ai/
-Twixify - https://www.twixify.com/
-ChainGPT - https://www.chaingpt.org/
-AskCodi - https://askcodi.com/
-AI Dungeon - https://play.aidungeon.com/
-Jasper - https://www.jasper.ai/chat
-Claude - https://claude.ai/
-Microsoft Bing - https://www.bing.com/new
-Gemini - https://gemini.google.com/app
-ChatGPT - https://chatgpt.com/
-HuggingChat - https://huggingface.co/chat
-Mistral - https://www.mistral.ai/
-Llama - https://ai.meta.com/llama
-DeepSeek - https://www.deepseek.com/
-Qwen - https://chat.qwenlm.ai/
-جابینجا - https://jobinja.ir/
-ای استخدام - https://www.e-estekhdam.com/
-جابویژن - https://jobvision.ir/
-کاربوم - https://karboom.io/
-ایران استخدام - https://iranestekhdam.ir/
-کاربرد - https://karbord.io/
-ملی کار - https://mellikar.com/
-کاردیکس - https://kardix.com/
-IranTalent - https://www.irantalent.com/
-کارلنسر - https://www.karlancer.com/
-پونیشا - https://ponisha.ir/
-پارس فریلنسر - https://parsfl.ir/
-پارس کدرز - https://parscoders.com/
-کارکو - https://karkooo.com
-Fiverr - https://www.fiverr.com/
-Freelancers - https://www.freelancer.com/
-Upwork - https://www.upwork.com/
-PeoplePerHour - https://www.peopleperhour.com/
-Jira - https://jira.atlassian.com/
-Trello - https://trello.com/
-Monday - https://monday.com/
-TeamWork - https://www.teamwork.com/
-Smartsheet - https://www.smartsheet.com
-Asana - https://asana.com/
-Wrike - https://www.wrike.com/
-Basecamp - https://basecamp.com/
-Zoho Projects - https://www.zoho.com/projects/
-ClickUp - https://clickup.com/
-Varzesh 3 - https://www.varzesh3.com/
-Football 360 - https://football360.ir/
-دولت من - https://my.gov.ir/
-تلوبیون - https://telewebion.com/
-آپارات اسپرت - https://www.aparatsport.com/
-آنتن - https://www.anten.ir/
-بلد - https://balad.ir/
-نشان - https://neshan.org/
-MuscleWiki - https://musclewiki.com/
-CryptoRank.io - Cryptorank.io
-CryptoPanic - Cryptopanic.com
-CoinGecko - Coingecko.com
-Glassnode - glassnode.com
-CryptoQuant - Cryptoquant.com
-کارنامه - https://karnameh.com/
-همراه مکانیک - https://www.hamrah-mechanic.com/
-باما - https://bama.ir/
-CertiK - https://www.certik.com/
-تابلو معاملات بورس کالای ایران - https://cdn.ime.co.ir/
-Four Meme - https://four.meme/
+
+- [Poe](https://poe.com/
+- [You.com](https://you.com/?chatMode=custom
+- [Moises](https://studio.moises.ai/library/
+- [Riffusion](https://www.riffusion.com/?filter=staff-picks
+- [Suno](https://suno.com/
+- [Mureka](https://www.mureka.ai/
+- [DaVinci](https://davinci.ai/app
+- [Otter](https://otter.ai/home
+- [Eleven Labs](https://elevenlabs.io/app/speech-synthesis/text-to-speech
+- [Gains Trade](https://gains.trade/trading
+- [Forex Factory](https://www.forexfactory.com/
+- [Character.ai](https://character.ai/
+- [Lovable](https://lovable.dev/
+- [Ninja Chat](https://www.ninjachat.ai/dashboard
+- [Merlio](https://merlio.app/dashboard
+- [Bolt](https://bolt.new/
+- [Excuse Generator](https://excuses.ai/
+- [DeFi Llama](https://defillama.com/
+- [Crypto Bubbles](https://cryptobubbles.net/
+- [Coin Market Cap](https://coinmarketcap.com/
+- [Gecko Terminal](https://www.geckoterminal.com/
+- [Trading View](https://www.tradingview.com/chart/
+- [Kif Pool](https://kifpool.me/member_v2/credit-card
+- [PinkSale](https://www.pinksale.finance/?source=home_screen
+- [Dapp Radar](https://dappradar.com/
+- [Propiy](https://propiy.com/fa/panel/profile
+- [xChief](https://my.xchief.com/profile/settings
+- [Meta Trader](https://web.metatrader.app/terminal
+- [JIT](https://jit.dev/
+- [WebDev Arena](https://web.lmarena.ai/
+- [Framer](https://framer.com/projects/Untitled--cukRGMqna221DllInNvM-j8m4O?node=augiA20Il
+- [Julius](https://julius.ai/chat
+- [LabEX](https://labex.io/labs/docker-your-first-docker-lab-92719?course=quick-start-with-docker
+- [Play With Docker](https://labs.play-with-docker.com/
+- [Visual Studio Code](https://vscode.dev/
+- [Colab](https://colab.google/
+- [Code Any Where](https://microsoft-vscode-j1km1dgwlc.app.codeanywhere.com/
+- [GitHub](https://github.com/
+- [Gitlab](https://gitlab.com/
+- [KLING AI](https://www.klingai.com/
+- [Hailuo AI](https://hailuoai.video/
+- [Hotshot](https://hotshot.co/
+- [inVideo AI](https://ai.invideo.io/workspace/805a70b8-1dbc-442b-ace2-d7b967d0a17b/home
+- [Runway](https://app.runwayml.com/video-tools/teams/samadelmakchi/dashboard
+- [HeyGen](https://app.heygen.com/home
+- [Descript](https://web.descript.com/
+- [Luma](https://dream-machine.lumalabs.ai/
+- [Google FX](https://labs.google/fx
+- [Azki Sarmayeh](https://app.azkisarmayeh.com/home
+- [iBshop](https://panel.ibshop.ir/dashboard
+- [Figma](https://www.figma.com/files/team/1304369465781142922/recents-and-sharing?fuid=1304369463003010946
+- [LinkedIn](https://www.linkedin.com/feed/
+- [Skype](https://web.skype.com/
+- [BitPin](https://bitpin.ir/wallet/
+- [OK-EX](https://ok-ex.io/setting/account/list
+- [Nobitex](https://nobitex.ir/panel/balance/spot/
+- [Sarmayex](https://sarmayex.com/panel
+- [Arz Digital](https://arzdigital.com/portfolio/portfolios?id=f046aba7-7755-4267-9f01-4dbeff2ce979
+- [Telegram](https://web.telegram.org/a/
+- [WhatsApp](https://web.whatsapp.com/
+- [Economic Calendar](https://iranbourseonline.co/weekly-economic-calendar
+- [Apartemana](https://panel.apartemana.com/dashboard/
+- [Tamin Ejtemaie](https://eservices.tamin.ir/view/#/main
+- [Police](https://pwa.police-man.ir/
+- [Bors View](https://bv.emofid.com/market
+- [TSETMC](https://tsetmc.com/
+- [Saman](https://my.samanbourse.ir/
+- [Farabi](https://my.irfarabi.com/
+- [Agah](https://oldonline.agah.com/
+- [Mofid Online](https://mobile.mofidonline.com/signin-oidc
+- [Easy Trader](https://m.easytrader.ir/market-watch
+- [Bidar](https://ebidar.com/
+- [Perplexity](https://www.perplexity.ai/
+- [Scira](https://scira.app/
+- [Maskan](https://saman.mrud.ir/
+- [Maliyat](https://my.tax.gov.ir/Page/Dashboard
+
+
+- [Youtube](https://www.youtube.com/
+- [Facebook](https://www.facebook.com/
+- [Instagram](https://www.instagram.com/
+- [Spotify](https://open.spotify.com/
+- [SoundCloud](https://m.soundcloud.com/discover
+- [Chatr Finance](https://chatrfinance.ir/webapp/#/minified:lU
+- [OnlyFans](https://onlyfans.com/
+- [AI Ease](https://www.aiease.ai/
+- [Play.ht](https://play.ht/app/audio-files?tab=ultra
+- [Aiva](https://creators.aiva.ai/
+- [Lovo](https://genny.lovo.ai/my-workspace/project
+- [Mikrotakt](https://studio.beta.mikrotakt.app/
+- [MyLens](https://mylens.ai/
+- [TypeSet](https://typeset.io/en/
+- [Weights](https://www.weights.gg/
+- [ClipDrop](https://clipdrop.co/tools
+- [Photo Room](https://www.photoroom.com/tools/background-remover
+- [iLoveIMG](https://www.iloveimg.com
+- [iLovePDF](https://www.ilovepdf.com/
+- [StackEdit](https://stackedit.io/app
+- [Small PDF](https://smallpdf.com/
+- [Pine Tools](https://pinetools.com/
+- [KeeWeb](https://app.keeweb.info/
+- [Cloud Convert](https://cloudconvert.com/
+- [AnyConv](https://anyconv.com/
+- [QR Code Generator](https://goqr.me/
+- [Translate & Edit Subtitles](https://www.syedgakbar.com/projects/dst
+- [YouTube Downloader](https://downloaderto.com/engf/
+- [Diagram](https://app.diagrams.net/
+- [Photopea](https://www.photopea.com/
+- [Bulk Resize Photos](https://bulkresizephotos.com/en
+- [WHM](https://linux103.talashnet.com:2087/cpsess7264240694/?login=1&post_login=9225839221632
+- [تلاش نت](https://crm.talashnet.com/clientarea.php
+- [Mokker](https://app.mokker.ai/
+- [Reveals](https://reveals.app/
+- [WeShop](https://www.weshop.ai/workspace
+- [Virtual Try On](https://web.aiuta.com/
+- [Brandmark](https://app.brandmark.io/v3/
+- [ویپاد](https://web.wepod.ir/
+- [Team Finance](https://app.team.finance/mint
+- [Remix](Ethereum IDE](https://remix.ethereum.org/
+- [Chain List](https://chainlist.org/
+- [RPC Info](https://rpc.info/
+- [intoDNS](https://intodns.com/
+- [Check Host](https://check-host.net/
+- [Iran Server](https://hub.iranserver.com/clientarea.php
+- [Mihan Nic](http://mihannic.com/
+- [IRNIC](https://www.nic.ir/
+- [Theme Lock](https://themelock.com/eng/
+- [Chain Tool](https://chaintool.tech/faucet
+- [Chainlink Faucets](https://faucets.chain.link/
+- [BSC Testnet Faucet](https://testnet.bnbchain.org/faucet-smart
+- [10 Web](https://10web.io/ai-website-builder/
+- [Gamma](https://gamma.app/create
+- [Ideogram](https://ideogram.ai/t/explore
+- [MioCreate](https://www.miocreate.com/
+- [Fliki](https://app.fliki.ai/
+- [Dzine](https://www.dzine.ai/
+- [Flex Clip](https://www.flexclip.com
+- [Pexels](https://www.pexels.com/
+- [Mixo](https://app.mixo.io/ai-website-builder
+- [Vidu](https://www.vidu.com/create/character2video
+- [ChatGOT](https://www.chatgot.io/chat/
+- [Consensus](https://consensus.app/search/
+- [HostVDS](https://hostvds.com/control/servers/new
+- [YottaSrc](https://yottasrc.com/
+- [Ethernet Servers](https://www.ethernetservers.com/
+- [ProHoster](https://prohoster.info/en/
+- [Hostiger](https://hostiger.com/
+- [BitLaunch](https://bitlaunch.io/
+- [Fotbo](https://fotbo.com/
+- [KVMKA](https://kvmka.ru/
+- [Aéza](https://aeza.net/
+- [Pump Fun (SOL)](https://pump.fun/create
+- [گواهینامه بین المللی](https://idp.taci.ir/Person
+- [Dribbble](https://dribbble.com/
+- [Napkin](https://app.napkin.ai/page/create
+- [Liner](https://getliner.com/
+- [Mapify](https://mapify.so/app/new
+- [Turbo Scribe](https://turboscribe.ai/dashboard
+- [Hyper Write](https://app.hyperwriteai.com/personalassistant
+- [ChatPDF](https://www.chatpdf.com/
+- [StudyChat](https://www.studychat.app/
+- [NoteGPT](https://notegpt.io/workspace/create
+- [ScienceOS](https://www.scienceos.ai/
+- [Good Tape](https://goodtape.io/tapes/new
+- [Pinterest](https://www.pinterest.com
+- [Zoosk](https://www.zoosk.com
+- [Twitch](https://m.twitch.tv/
+- [TikTok](https://www.tiktok.com/
+- [Tumblr](https://www.tumblr.com/
+- [Tango](https://tango.me/
+- [VK](https://m.vk.com/
+- [Reddit](https://www.reddit.com/
+- [Clubhouse](https://www.clubhouse.com/
+- [Threads](https://www.threads.net
+- [Snapchat](https://www.snapchat.com/
+- [Mastodon](https://mastodon.social/
+- [Mattermost](https://mattermost.com/
+- [Zoom](https://www.zoom.com/
+- [Slack](https://slack.com/
+- [Microsoft 365 Copilot](https://m365.cloud.microsoft/
+- [Discord](https://discord.com/
+- [Scite](https://scite.ai/
+- [Speechify](https://speechify.com/
+- [ScholarAI](https://scholarai.io/
+- [Pi](https://pi.ai/onboarding
+- [Gipi](https://gipi.ai/
+- [Voice Dictation](https://dictation.io/
+- [NotebookLM](https://notebooklm.google.com/notebook/e6fa6250-958b-4303-9bf8-38b7973e132e?_gl=1*1xg1w7u*_ga*MTQ4MDcxNjA3My4xNzM5MDg5Nzgw*_ga_W0LDH41ZCB*MTczOTA4OTc4MC4xLjEuMTczOTA4OTc4MC42MC4wLjA.&original_referer=https:%2F%2Fnotebooklm.google%23&pli=1
+- [نوسان](https://www.navasan.net/
+- [PicLumen](https://piclumen.com/app/image-generator/explore
+- [Veo 2](https://veo2.ai/
+- [Genmo](https://www.genmo.ai/
+- [Pika](https://pika.art/
+- [Haiper](https://haiper.ai/
+- [PixVerse](https://app.pixverse.ai/
+- [Vidfly](https://vidfly.ai/home/
+- [Focal](https://focalml.com/
+- [Clipfly](https://www.clipfly.ai/
+- [Vidful](https://vidful.ai/
+- [Visla](https://www.visla.us/
+- [Zeemo](https://zeemo.ai/
+- [Black Box](https://www.blackbox.ai/
+- [Turbo Learn](https://www.turbolearn.ai/
+- [Twixify](https://www.twixify.com/
+- [ChainGPT](https://www.chaingpt.org/
+- [AskCodi](https://askcodi.com/
+- [AI Dungeon](https://play.aidungeon.com/
+- [Jasper](https://www.jasper.ai/chat
+- [Claude](https://claude.ai/
+- [Microsoft Bing](https://www.bing.com/new
+- [Gemini](https://gemini.google.com/app
+- [ChatGPT](https://chatgpt.com/
+- [HuggingChat](https://huggingface.co/chat
+- [Mistral](https://www.mistral.ai/
+- [Llama](https://ai.meta.com/llama
+- [DeepSeek](https://www.deepseek.com/
+- [Qwen](https://chat.qwenlm.ai/
+- [جابینجا](https://jobinja.ir/
+- [ای استخدام](https://www.e-estekhdam.com/
+- [جابویژن](https://jobvision.ir/
+- [کاربوم](https://karboom.io/
+- [ایران استخدام](https://iranestekhdam.ir/
+- [کاربرد](https://karbord.io/
+- [ملی کار](https://mellikar.com/
+- [کاردیکس](https://kardix.com/
+- [IranTalent](https://www.irantalent.com/
+- [کارلنسر](https://www.karlancer.com/
+- [پونیشا](https://ponisha.ir/
+- [پارس فریلنسر](https://parsfl.ir/
+- [پارس کدرز](https://parscoders.com/
+- [کارکو](https://karkooo.com
+- [Fiverr](https://www.fiverr.com/
+- [Freelancers](https://www.freelancer.com/
+- [Upwork](https://www.upwork.com/
+- [PeoplePerHour](https://www.peopleperhour.com/
+- [Jira](https://jira.atlassian.com/)
+- [Trello](https://trello.com/)
+- [Monday](https://monday.com/)
+- [TeamWork](https://www.teamwork.com/)
+- [Smartsheet](https://www.smartsheet.com)
+- [Asana](https://asana.com/)
+- [Wrike](https://www.wrike.com/)
+- [Basecamp](https://basecamp.com/)
+- [Zoho Projects](https://www.zoho.com/projects/)
+- [ClickUp](https://clickup.com/)
+- [Varzesh 3](https://www.varzesh3.com/)
+- [Football 360](https://football360.ir/)
+- [دولت من](https://my.gov.ir/)
+- [تلوبیون](https://telewebion.com/)
+- [آپارات اسپرت](https://www.aparatsport.com/)
+- [آنتن](https://www.anten.ir/)
+- [بلد](https://balad.ir/)
+- [نشان](https://neshan.org/)
+- [MuscleWiki](https://musclewiki.com/)
+- [CryptoRank.io](Cryptorank.io)
+- [CryptoPanic](Cryptopanic.com)
+- [CoinGecko](Coingecko.com)
+- [Glassnode](glassnode.com)
+- [CryptoQuant](Cryptoquant.com)
+- [کارنامه](https://karnameh.com/)
+- [همراه مکانیک](https://www.hamrah-mechanic.com/)
+- [باما](https://bama.ir/)
+- [CertiK](https://www.certik.com/)
+- [تابلو معاملات بورس کالای ایران](https://cdn.ime.co.ir/)
+- [Four Meme](https://four.meme/)
